@@ -1,0 +1,8 @@
+print("name: YogeshBharati")
+print("age: 30")
+print("address: japan")
+print("hobby: bikedrive")
+print("height: 166cm")
+print("weight: 58kg")
+print("bloodgroup: O+")
+print("nickne: jangee")    
